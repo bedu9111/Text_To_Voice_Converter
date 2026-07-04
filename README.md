@@ -7,8 +7,7 @@ A modern and responsive **Text to Speech Converter** built using **HTML, CSS, an
 ## 🚀 Live Demo
 
 **Vercel:**  
-https://your-vercel-link.vercel.app
-
+https://text-to-voice-converter-livid.vercel.app/
 ---
 
 ## ✨ Features
@@ -42,13 +41,7 @@ https://developer.mozilla.org/en-US/docs/Web/API/Web_Speech_API
 
 ---
 
-## 📸 Application Preview
 
-> Add a screenshot of your project here.
-
-```md
-![Preview](preview.png)
-```
 
 ---
 
